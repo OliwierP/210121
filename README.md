@@ -1,5 +1,5 @@
 # WebApp Core
-
+#gpg
 
 ### Instalacja zależności:
 

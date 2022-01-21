@@ -3,6 +3,7 @@ Flask-Migrate
 Flask-SQLAlchemy
 python-dateutil
 
+aaa
 Modules/Dodaj/
 
 
